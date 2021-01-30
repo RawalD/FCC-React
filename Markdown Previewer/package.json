@@ -1,6 +1,5 @@
 {
   "name": "markdown-previewer-react",
-  "homepage": "https://jessesousa.github.io/markdown-viewer-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
